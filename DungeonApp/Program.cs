@@ -1,4 +1,5 @@
-﻿namespace DungeonApp
+﻿using DungeonLibrary;
+namespace DungeonApp
 {
     internal class Program
     {
